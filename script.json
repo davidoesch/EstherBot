@@ -1,8 +1,8 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "BOT": "Hi there!\nI’m the test bot of geo.admin.ch, the federal geoportal of Switzerland\n![geoadmin](https://pbs.twimg.com/profile_images/1190442843/logo_geoportal.png)\nWant to know more about available data or learn about geo.admin.ch? %[What kinda maps do you have?](postback:here_for_the_maps) %[Learn about geo.admin.ch](postback:learn_about_geoadmin) %[One random dataset!](postback:random_dataset)",
+    "HELLO": "Hey, I'm so glad you set geoadmin_Bot up! Do you want to tell geoportal that you're talking to his bot? %[Tell it](postback:twitter)",
+    "TELL IT": "Let's tweet @ swiss_geoportal so it knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet swiss_geoportal](http://bit.ly/23PYPRX)",
+    "I LOVE YOU": "Awh, shucks! We love maps too!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "Roger that, geoadmin_Bot is back."
 }
