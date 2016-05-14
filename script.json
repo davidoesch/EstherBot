@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m the test bot of geo.admin.ch, the federal geoportal of Switzerland\n![geoadmin](https://pbs.twimg.com/profile_images/1190442843/logo_geoportal.png)\nWant to know more about available data or learn about geo.admin.ch? %[What kinda maps do you have?](postback:here_for_the_maps) %[Learn about geo.admin.ch](postback:learn_about_geoadmin) %[One random dataset!](postback:random_dataset)",
+    "BOT": "Hi there!\nI’m the test bot of geo.admin.ch, the federal geoportal of Switzerland\n![geoadmin](https://pbs.twimg.com/profile_images/1190442843/logo_geoportal.png)\nWant to know more about available data or learn about geo.admin.ch? %[What kinda maps do you have (tbd)?](postback:here_for_the_maps) %[Learn about geo.admin.ch (tbd)](postback:learn_about_geoadmin) %[One random dataset (tbd)!](postback:random_dataset)",
     "HELLO": "Hey, I'm so glad you set geoadmin_Bot up! Do you want to tell geoportal that you're talking to his bot? %[Tell it](postback:twitter)",
     "TELL IT": "Let's tweet @ swiss_geoportal so it knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet swiss_geoportal](http://bit.ly/23PYPRX)",
     "I LOVE YOU": "Awh, shucks! We love maps too!",
